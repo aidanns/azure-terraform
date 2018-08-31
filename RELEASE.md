@@ -1,6 +1,6 @@
 # Azure Terraform Release Notes
 
-## Unreleased
+## 0.0.1
 
 * Initial repo.
 
